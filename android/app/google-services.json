@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "547738851533",
+    "project_id": "photo-sharing-app-bcc05",
+    "storage_bucket": "photo-sharing-app-bcc05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547738851533:android:76e188c6557373a98a3184",
+        "android_client_info": {
+          "package_name": "barisbaysal.photo_sharing_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547738851533-5s0ri9f9hs0uj262d282m6n1n9if13vr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmu_QZGdEwRjBSMJ-xULVniZslh-YLvCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547738851533-5s0ri9f9hs0uj262d282m6n1n9if13vr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
